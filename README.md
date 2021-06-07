@@ -4,7 +4,7 @@
 <img src="assets/images/desk-version.png" alt="Web Version"/>
 
 ### Web Version Hover
-<img src="assets/images/desk-version-hover.png" alt="Web Version"/>
+<img src="assets/images/desk-version-hover.jpg" alt="Web Version"/>
 
 ### Mobile Version
 <img src="assets/images/mob-version.png" alt="Mobile Version"/>
