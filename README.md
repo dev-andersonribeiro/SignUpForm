@@ -7,7 +7,7 @@
 <img src="assets/images/desk-version-hover.jpg" alt="Web Version"/>
 
 ### Mobile Version
-<img src="assets/images/mob-version.png" alt="Mobile Version"/>
+<img width="350" src="assets/images/mob-version.png" alt="Mobile Version"/>
 
 ### Mobile Version Hover
-<img src="assets/images/mob-version-hover.png" alt="Mobile Version"/>
+<img width="350" src="assets/images/mob-version-hover.jpg" alt="Mobile Version"/>
