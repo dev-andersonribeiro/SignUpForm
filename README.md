@@ -1,6 +1,6 @@
 # Sign Up Form
 
-Sign Up Page made using HTML and CSS
+Sign Up Page made using HTML and CSS.
 
 ### Web Version
 <img src="assets/images/desk-version.png" alt="Web Version"/>
